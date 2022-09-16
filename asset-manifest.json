@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/casino-quest/static/css/main.68012757.css",
-    "main.js": "/casino-quest/static/js/main.ef7ff399.js",
+    "main.js": "/casino-quest/static/js/main.d786c4ca.js",
     "static/js/787.ad3f429e.chunk.js": "/casino-quest/static/js/787.ad3f429e.chunk.js",
     "static/media/CQ-bg.mp4": "/casino-quest/static/media/CQ-bg.858f53ebd9425399d073.mp4",
     "static/media/CQ-logo.png": "/casino-quest/static/media/CQ-logo.ce91a270df701dcd90c8.png",
     "static/media/logo.svg": "/casino-quest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/casino-quest/index.html",
     "main.68012757.css.map": "/casino-quest/static/css/main.68012757.css.map",
-    "main.ef7ff399.js.map": "/casino-quest/static/js/main.ef7ff399.js.map",
+    "main.d786c4ca.js.map": "/casino-quest/static/js/main.d786c4ca.js.map",
     "787.ad3f429e.chunk.js.map": "/casino-quest/static/js/787.ad3f429e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68012757.css",
-    "static/js/main.ef7ff399.js"
+    "static/js/main.d786c4ca.js"
   ]
 }
